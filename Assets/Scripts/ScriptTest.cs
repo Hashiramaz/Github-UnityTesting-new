@@ -35,4 +35,14 @@ public class ScriptTest : MonoBehaviour {
     {
 
     }
+
+
+
+
+
+
+    void NewFuncionFromNotebook()
+    {
+        //blablablabla
+    }
 }
