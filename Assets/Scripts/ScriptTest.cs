@@ -35,4 +35,9 @@ public class ScriptTest : MonoBehaviour {
     {
 
     }
+
+   void NewFunctionFromDesktop()
+    {
+
+    }
 }
