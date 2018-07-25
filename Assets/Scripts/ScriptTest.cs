@@ -36,6 +36,7 @@ public class ScriptTest : MonoBehaviour {
 
     }
 
+<<<<<<< HEAD
 
 
 
@@ -44,5 +45,10 @@ public class ScriptTest : MonoBehaviour {
     void NewFuncionFromNotebook()
     {
         //blablablabla
+=======
+   void NewFunctionFromDesktop()
+    {
+
+>>>>>>> 0310858791227cdb28c7095af577522e914890bd
     }
 }
