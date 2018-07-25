@@ -23,7 +23,10 @@ public class ScriptTest : MonoBehaviour {
 
     }
 
-
+    private void Awake()
+    {
+        gameobjectTest = 1;
+    }
 
 
 
